@@ -9,7 +9,7 @@ import requests
 BOT_TOKEN = "8766442026:AAErxey1uoQJnki4RosBcNXqciIpOCXQfdY"
 
 # Enter your External API URL here
-EXTERNAL_API_URL = "https://test-osint-bot-2.onrender.com/"
+EXTERNAL_API_URL =  "https://test-osint-bot-2.onrender.com"
 
 # Port for the dummy HTTP server
 PORT = 8080
